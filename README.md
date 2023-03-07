@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDCDDC&height=300&section=header&text=DDDDDDD%20&fontSize=90&fontColor=3D3D3F&fontAlign=50)
+<!-- ### Hi there 👋 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDCDDC&height=300&section=header&text=hi%20&fontSize=90&fontColor=3D3D3F&fontAlign=50)
 
 
 
