@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDCDDC&height=300&section=header&text=hi%20&fontSize=90&fontColor=3D3D3F&fontAlign=50)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhanori&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhanori&show_icons=true">
 
 <!--
 **iamhanori/iamhanori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
